@@ -1,0 +1,315 @@
+body{
+    margin: 0;
+    
+}
+.header-1{
+    width: 100%;
+    height: 107px;
+    background-color: black;
+    position: fixed;
+    display: flex;
+    
+}
+.left-header{
+    width: 50%;
+    height: 107px;
+    background-color: black;
+
+  
+}
+.right-header{
+    width: 50%;
+    height: 107px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    /* margin-left: 844px; */
+}
+.image1{
+    width: 130px;
+    margin-top: 18px;
+    margin-left: 67px;
+    height: 72px;
+    cursor: pointer;
+    
+
+}
+.head-text{
+    color: #fff;
+    text-decoration: none;
+    font-family: sans-serif;
+    
+    margin-left: 10px;
+    font-stretch: extra-condensed;
+    font-size: larger;
+
+
+}
+.hpoac{
+    display: inline;
+    margin-left: 110px;
+    /* position: absolute; */
+    top: 42px;
+    cursor: pointer;
+
+    
+}
+.right-logo{
+    width: 23px;
+    height: 23px;
+    margin: 7px;
+}
+.logoimg{
+    display: inline;
+    position: absolute;
+    right: 65px;
+    top: 32px;
+    cursor: pointer;
+
+}
+
+
+.bdy1img{
+    margin:0;
+    width: 100%;
+    height: 100%;
+    margin-left: 0px;
+    margin-top: 107px;
+}
+.body2text{
+  
+   
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+    font-weight: 100;
+    font-size: xxx-large;
+    margin-top: 76px;
+    margin-left: 392px;
+
+}
+.body3-1{
+    background-color: yellow;
+    
+}
+.layer-1{
+    
+    width: 100%;
+}
+.layer-1-image{
+    width: 393px;
+    height: 288px;
+
+}
+.layer-1{
+    padding-left: 215PX;
+    DISPLAY: INLINE;
+}
+.layer-1-text{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: x-large;
+    margin-left: 343px;
+}
+.layer1-text1{
+    float: left;
+    width: 30%
+    
+    
+}
+.layer1-text2{
+    float: left;
+    width: 30%
+   
+}
+.layer1-text3{
+    width: 40%
+    float
+}
+.layer-2-image{
+    width: 393px;
+    height: 288px;
+    margin-top: 25px;
+
+}
+.layer-2{
+    padding-left: 215PX;
+    DISPLAY: INLINE;
+}
+.layer-2-text{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: x-large;
+    margin-left: 343px;
+}
+.layer2-text1{
+    float: left;
+    width: 30%
+    
+    
+}
+.layer2-text2{
+    float: left;
+    width: 30%
+   
+}
+.layer2-text3{
+    width: 40%
+    float
+}
+.layer-3-image{
+    width: 393px;
+    height: 288px;
+    margin-top: 32px;
+    margin-left: 230px;
+}
+.layer-3-text{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: x-large;
+    margin-left: 343px;
+}
+.main2image{
+    margin-left: 171px;
+    width: 81%;
+}
+.body-3-image{
+    width: 100%;
+    background-color: black;
+    height: 715px;
+    margin-top: 128px;
+}
+.main3image{
+    
+    width: 81%;
+    margin: 0;
+    margin-left: 134px;
+    height: 231px;
+}
+.body-4-image{
+    background-color: #be9509;
+    height: 235px;
+}
+.footer1{
+    background-color: black;
+    width: 100%;
+    height: 220px;
+}
+.footer1-s1{
+    width: 20%;
+    float: left;
+
+}
+.f1-s1{
+    width: 162px;
+    margin-left: 189px;
+    margin-top: 30px;
+}
+.f1s2-text{
+    color: #be9509;
+}
+.footer1-s2{
+    width: 20%;
+    float: left;
+    margin-left: 27px;
+
+}
+.f1-text{
+    margin: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #be9509;
+    margin-bottom: 13px;
+
+}
+.f1-text2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #be9509;
+    CURSOR: pointer;
+    
+}
+li{
+    margin-top: 14px;
+}
+.footer1-s3{
+    width: 20%;
+    float: left;
+
+    margin-left: -99px;
+    FONT-SIZE: unset;
+    
+
+}
+.footer1-s4{
+    width: 20%;
+    float: left;
+
+    margin-left: -99px;
+    FONT-SIZE: unset;
+    
+
+}
+.footer1-s5{
+    width: 20%;
+    float: left;
+
+    margin-left: -99px;
+    FONT-SIZE: unset;
+    
+
+}
+.f1logo{
+    width: 35px;
+    cursor: pointer;
+}
+.f1logo3{
+    padding-left: 38px;
+}
+.prm-gold{
+    width: 165px;
+    margin-top: 34px;
+    margin-left: -57px;
+
+}
+.footer2-s1{
+    padding-left: 45px;
+    width: 48%;
+    background-color: black;
+    float: left;
+    color: #be9509;
+    height: 42px;
+    padding-top: 18px;
+
+
+    
+    
+}
+.footer2-s2{
+    width: 49%;
+    background-color: black;
+    float: left;
+    color: #be9509;
+    height: 38px;
+    padding-top: 22px;
+  
+
+    
+}
+.footer2-txt2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-stretch: extra-condensed;
+    font-weight: normal;
+    font-size: larger;
+    display: inline;
+    
+    margin-left: 410px;
+
+}
+.footer2-txt1{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-stretch: extra-condensed;
+    font-weight: normal;
+    font-size: larger;
+    display: inline;
+}
+.footer2{
+    background-color: black;
+    width: 100%;
+
+
+}
